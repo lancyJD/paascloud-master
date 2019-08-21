@@ -7,7 +7,6 @@ spring:
         - VM.*
       preferredNetworks:
         - 192.168
-
 eureka:
   server:
     enable-self-preservation: false
